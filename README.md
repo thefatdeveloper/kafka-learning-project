@@ -484,11 +484,6 @@ docker exec kafka kafka-console-consumer \
 - 💻 GitHub: [https://github.com/thefatdeveloper](https://github.com/thefatdeveloper)
 - 📧 Email: srikar.ganugapati@outlook.com
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see below for details:
 
 ---
 
